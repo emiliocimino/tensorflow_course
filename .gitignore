@@ -1,2 +1,10 @@
 */.ipynb_checkpoints
 .ipynb_checkpoints/requirements-checkpoint.txt
+Recommender System/data/ml-20m/genome-tags.csv
+Recommender System/data/ml-20m/genome-scores.csv
+Recommender System/data/ml-20m.zip
+Recommender System/data/ml-20m/links.csv
+Recommender System/data/ml-20m/movies.csv
+Recommender System/data/ml-20m/README.txt
+Recommender System/data/ml-20m/tags.csv
+Recommender System/data/ml-20m/ratings.csv
